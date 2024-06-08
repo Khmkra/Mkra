@@ -1,4 +1,4 @@
-# Zombie.js
+# 
 ### Insanely fast, headless full-stack testing using Node.js
 
 [![NPM](https://img.shields.io/npm/v/zombie.svg?style=flat-square&label=latest)](https://www.npmjs.com/package/zombie)
